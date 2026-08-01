@@ -1,0 +1,43 @@
+//multiple condition - else if statement 
+int rating = 3;
+if (rating == 5) {
+    print("excellent");
+} else if (rating == 4) {
+    print("very good");
+} else if (rating == 3) {
+    print("good");
+} else {
+    print("need improvement");
+}
+
+
+
+//state switch - multiple condition
+
+int menuoption = 4;
+
+switch(menuoption){
+
+    case "where is my order":
+    print("home screen");
+    break;
+
+    case 2:
+    print("profile screen");
+    break;
+
+    case 3:
+    print("setting screen");
+    break;
+
+    case 4:
+    print("network screen");
+    break;
+
+    case 5:
+    print("display screen")
+    break;
+
+    default:
+    print("invalid choice")
+}
