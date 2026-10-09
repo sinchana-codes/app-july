@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241229522100",
+    "project_id": "interstx",
+    "storage_bucket": "interstx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241229522100:android:c93d716972a7ecb7d163e1",
+        "android_client_info": {
+          "package_name": "com.example.smart_interest_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc1d4-ksjuF9LOnSvQ4as8T0K_ZMy4AAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
